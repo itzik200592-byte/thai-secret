@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-09-16T10:58:56.806485Z",
+    "display_name": "Nano Banana Pro",
+    "id": "702b097c-de4c-42f7-b90a-b90d0e843675",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260916_105856_702b097c-de4c-42f7-b90a-b90d0e843675_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [],
+      "prompt": "close-up photo of the hands of a woman in her late 20s, olive skin, long dark brown hair past the shoulders, white ribbed tank top, thin gold hoop earring, in a bright modern hair salon with white walls, a large window on the left, a white marble counter and a blurred potted olive tree in the background, she tears open a small royal-blue and silver foil sachet with a white wave shape and the words 'bio Super Treatment Cream' printed on it, and squeezes a thick glossy white cream into her palm over the marble counter, shot on a real cinema camera, 50mm lens, soft natural window daylight, bright clean editorial grade, true-to-life skin and hair texture with flyaway strands, no retouching, no CGI look, subtle fine film grain, photorealistic",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260916_105856_702b097c-de4c-42f7-b90a-b90d0e843675.png",
+    "status": "completed"
+  }
+]

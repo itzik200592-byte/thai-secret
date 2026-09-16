@@ -1,0 +1,6 @@
+media/clips/
+media/keyframes/*/*.png
+media/stills/*.png
+media/ref/*.heic
+media/ref/*.mov
+media/tmp_ph/
