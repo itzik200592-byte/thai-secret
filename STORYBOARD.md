@@ -30,3 +30,11 @@ Mobile 9:16: same, recomposed vertical (tighter framing, subject centered, CTA s
 
 ## Kling flags
 `kling3_0 --mode pro --sound off --aspect_ratio 16:9|9:16 --duration N --start-image <prev_last.png>`
+
+## Keyframe rules (learned 2026-09-16, after two rejected stills)
+- Never combine "from behind" with a hand reaching toward the camera side. If she faces away, her hands are not visible or the shot is over-the-shoulder with the arm extending AWAY from camera.
+- Always write "exactly two hands" / "only one arm visible" and check the count before showing Itzik.
+- The sachet must come from `media/ref/ref1.jpg` + `ref3.jpg` as image references in every frame where it appears.
+
+### K1 (end of scene 1 / start of scene 2) - corrected composition
+Over-the-shoulder from behind her right shoulder. She faces the marble counter. Back of her head + frizzy hair on the left of frame. Her right arm extends forward from her body, hand resting on the counter next to the unopened sachet. Clip 2 then orbits the camera around to her front for the tear-and-squeeze (K2).
