@@ -38,3 +38,15 @@ Mobile 9:16: same, recomposed vertical (tighter framing, subject centered, CTA s
 
 ### K1 (end of scene 1 / start of scene 2) - corrected composition
 Over-the-shoulder from behind her right shoulder. She faces the marble counter. Back of her head + frizzy hair on the left of frame. Her right arm extends forward from her body, hand resting on the counter next to the unopened sachet. Clip 2 then orbits the camera around to her front for the tear-and-squeeze (K2).
+
+## Revision 2026-09-16 (evening) - keyframe-first, 25 s
+- Film shortened to **5 clips x 5 s = 25 s** (Itzik: "not too long").
+- Pipeline is now `scripts/make-film.sh pc|mobile` (resumable; stops cleanly on the Higgsfield grace limit).
+  Phase 1 authors keyframes K0..K5 (K_i = end of clip i = start of clip i+1), phase 2 (`CLIPS=1`) chains
+  clips with `--start-image <previous real last frame> --end-image K_i`, phase 3 concatenates with `-g 4`.
+- Keyframes K1-K3 (any frame with the product) take `media/ref/ref1.jpg` + `ref3.jpg` as image references
+  so the sachet is the REAL royal-blue/silver one. The old still2_medium(_v2) stills showed an invented
+  sachet and were rejected.
+- Mobile chain is recomposed vertical (subject centered, bottom third clean for the caption card), not cropped.
+- Blocker today: Higgsfield returns `grace_daily_limit_reached` ("update your plan to continue") for every
+  generation, CLI and MCP alike, although the balance shows 815 credits / plus plan.
