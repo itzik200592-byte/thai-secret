@@ -26,7 +26,7 @@ if [ "$ORI" = mobile ]; then FRAMING="vertical 9:16 composition, subject centere
 declare -A KF
 KF[0]="medium-wide shot from behind: $MODEL stands in $SALON, we see the back of her head, her long dark hair is dry, frizzy and dull after a chemical treatment, her arms relaxed at her sides, no hands visible, $FRAMING, $GRADE"
 KF[1]="close-up over the white marble counter: exactly two hands of $MODEL hold an unopened $SACHET, about to tear the corner, $SALON blurred behind, anatomically correct, $FRAMING, $GRADE"
-KF[2]="macro close-up: the torn open $SACHET squeezed by one hand, a thick glossy white cream coming out onto the open palm of the other hand, exactly two hands, anatomically correct, white marble counter, $FRAMING, $GRADE"
+KF[2]="macro close-up: the slender feminine hands of $MODEL (smooth skin, no body hair, short natural nails) - one hand squeezes the torn open $SACHET, a thick glossy white cream comes out onto the open palm of the other hand, exactly two hands, anatomically correct, white marble counter, $FRAMING, $GRADE"
 KF[3]="medium shot: $MODEL faces the camera with a slight smile in $SALON, her long dark hair now smooth, glossy and heavy, soft window light sliding along it like silk, $FRAMING, $GRADE"
 
 # Motion prompts (one camera verb per clip)

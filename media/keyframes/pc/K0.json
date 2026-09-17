@@ -1,0 +1,44 @@
+[
+  {
+    "created_at": "2026-09-17T05:21:04.034234Z",
+    "display_name": "Nano Banana Pro",
+    "id": "0530687b-5cba-4e7c-af40-fb3033fd25b5",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052104_0530687b-5cba-4e7c-af40-fb3033fd25b5_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "cc0e627b-8781-43f2-93c3-8e78a6a917b0",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/cc0e627b-8781-43f2-93c3-8e78a6a917b0_resize.jpg"
+        },
+        {
+          "id": "b9953f1e-6dfe-4646-9b4e-ead2c5f700a2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/b9953f1e-6dfe-4646-9b4e-ead2c5f700a2_resize.jpg"
+        },
+        {
+          "id": "cc0e627b-8781-43f2-93c3-8e78a6a917b0",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/cc0e627b-8781-43f2-93c3-8e78a6a917b0_resize.jpg"
+        },
+        {
+          "id": "b9953f1e-6dfe-4646-9b4e-ead2c5f700a2",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/b9953f1e-6dfe-4646-9b4e-ead2c5f700a2_resize.jpg"
+        }
+      ],
+      "prompt": "medium-wide shot from behind: the same woman as in the reference photos: late 20s, olive skin, long dark brown hair past the shoulders, white ribbed tank top, thin gold hoop earring stands in the same bright modern hair salon as in the reference photos: white walls, large arched window on the left, white marble counter, blurred potted olive tree, we see the back of her head, her long dark hair is dry, frizzy and dull after a chemical treatment, her arms relaxed at her sides, no hands visible, 16:9 composition, clean uncluttered space on the right third of the frame, shot on a real cinema camera, 50mm lens, soft natural window daylight, bright clean editorial grade, true-to-life skin and hair texture with flyaway strands, no retouching, no CGI look, subtle fine film grain, photorealistic",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052104_0530687b-5cba-4e7c-af40-fb3033fd25b5.png",
+    "status": "completed"
+  }
+]

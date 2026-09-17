@@ -1,1 +1,44 @@
-Error: {"data":{"modal_data":{"elapsed_days":14},"type":"unlock_full_access_notice"},"error_type":"grace_daily_limit_reached"}
+[
+  {
+    "created_at": "2026-09-17T05:23:58.640758Z",
+    "display_name": "Nano Banana Pro",
+    "id": "a81e75fc-b124-4ebd-bd1a-b6d7a957eb7a",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052358_a81e75fc-b124-4ebd-bd1a-b6d7a957eb7a_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "1fc7d030-1f1f-4ced-85fa-728a91670ce1",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/1fc7d030-1f1f-4ced-85fa-728a91670ce1_resize.jpg"
+        },
+        {
+          "id": "97ce454b-afcb-4d49-9360-59ca6112a13d",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/97ce454b-afcb-4d49-9360-59ca6112a13d_resize.jpg"
+        },
+        {
+          "id": "1fc7d030-1f1f-4ced-85fa-728a91670ce1",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/1fc7d030-1f1f-4ced-85fa-728a91670ce1_resize.jpg"
+        },
+        {
+          "id": "97ce454b-afcb-4d49-9360-59ca6112a13d",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/97ce454b-afcb-4d49-9360-59ca6112a13d_resize.jpg"
+        }
+      ],
+      "prompt": "medium shot: the same woman as in the reference photos: late 20s, olive skin, long dark brown hair past the shoulders, white ribbed tank top, thin gold hoop earring faces the camera with a slight smile in the same bright modern hair salon as in the reference photos: white walls, large arched window on the left, white marble counter, blurred potted olive tree, her long dark hair now smooth, glossy and heavy, soft window light sliding along it like silk, 16:9 composition, clean uncluttered space on the right third of the frame, shot on a real cinema camera, 50mm lens, soft natural window daylight, bright clean editorial grade, true-to-life skin and hair texture with flyaway strands, no retouching, no CGI look, subtle fine film grain, photorealistic",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052358_a81e75fc-b124-4ebd-bd1a-b6d7a957eb7a.png",
+    "status": "completed"
+  }
+]

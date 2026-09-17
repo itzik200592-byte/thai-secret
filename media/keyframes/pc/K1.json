@@ -1,1 +1,54 @@
-Error: {"data":{"modal_data":{"elapsed_days":14},"type":"unlock_full_access_notice"},"error_type":"grace_daily_limit_reached"}
+[
+  {
+    "created_at": "2026-09-17T05:21:49.623896Z",
+    "display_name": "Nano Banana Pro",
+    "id": "f332cdc6-a5f1-4daf-a015-80aca13a89e0",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052149_f332cdc6-a5f1-4daf-a015-80aca13a89e0_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "787ff65d-cae6-4a62-999f-36c21c5c86b4",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/787ff65d-cae6-4a62-999f-36c21c5c86b4_resize.jpg"
+        },
+        {
+          "id": "0613bb35-a442-461f-9849-1b46a43e42ad",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/0613bb35-a442-461f-9849-1b46a43e42ad_resize.jpg"
+        },
+        {
+          "id": "787ff65d-cae6-4a62-999f-36c21c5c86b4",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/787ff65d-cae6-4a62-999f-36c21c5c86b4_resize.jpg"
+        },
+        {
+          "id": "0613bb35-a442-461f-9849-1b46a43e42ad",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/0613bb35-a442-461f-9849-1b46a43e42ad_resize.jpg"
+        },
+        {
+          "id": "1d02f79a-40d4-4f9b-9273-9a6e74c88c93",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/1d02f79a-40d4-4f9b-9273-9a6e74c88c93_resize.jpg"
+        },
+        {
+          "id": "71a4dcac-939f-4431-9d85-04977c57c616",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/71a4dcac-939f-4431-9d85-04977c57c616_resize.jpg"
+        }
+      ],
+      "prompt": "close-up over the white marble counter: exactly two hands of the same woman as in the reference photos: late 20s, olive skin, long dark brown hair past the shoulders, white ribbed tank top, thin gold hoop earring hold an unopened the EXACT sachet from the reference photos (royal blue and silver foil, 'Green bio Super Treatment Cream', 'Use After Chemical Treat', yellow label, 30 ml), about to tear the corner, the same bright modern hair salon as in the reference photos: white walls, large arched window on the left, white marble counter, blurred potted olive tree blurred behind, anatomically correct, 16:9 composition, clean uncluttered space on the right third of the frame, shot on a real cinema camera, 50mm lens, soft natural window daylight, bright clean editorial grade, true-to-life skin and hair texture with flyaway strands, no retouching, no CGI look, subtle fine film grain, photorealistic",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Fw3R177Ckmi25aWQQ1xwW4rtmZ/hf_20260917_052149_f332cdc6-a5f1-4daf-a015-80aca13a89e0.png",
+    "status": "completed"
+  }
+]
